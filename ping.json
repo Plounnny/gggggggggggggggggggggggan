@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Brusko",
-            "ip": "65.21.218.137",
-            "port": 3999,
+            "name": "Tucson",
+            "ip": "185.169.134.4",
+            "port": 7777,
             "online": 3,
             "maxplayers": 1000,
             "password": false,
