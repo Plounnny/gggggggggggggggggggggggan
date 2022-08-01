@@ -3,8 +3,8 @@
         {
             "number": 1,
             "name": "Tucson",
-            "ip": "185.169.134.4",
-            "port": 7777,
+            "ip": "65.21.218.237",
+            "port": 3999,
             "online": 3,
             "maxplayers": 1000,
             "password": false,
